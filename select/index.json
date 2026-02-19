@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "渇く、憂う",
+  "base_artist": "トゲナシトゲアリ",
+  "createdAt": "2026-02-19T13:37:02.154353Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "渇く、憂う",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/pl_01_渇く、憂う_トゲナシトゲアリ.txt"
+    }
+  ]
+}
