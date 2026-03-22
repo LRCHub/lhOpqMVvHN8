@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "渇く、憂う",
   "base_artist": "トゲナシトゲアリ",
-  "createdAt": "2026-02-19T13:37:02.154353Z",
+  "createdAt": "2026-03-22T13:24:15.530899Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "トゲナシトゲアリ",
       "has_synced": false,
       "path": "select/pl_01_渇く、憂う_トゲナシトゲアリ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "渇く、憂う",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/localdb_01_渇く、憂う_トゲナシトゲアリ.txt",
+      "repo_name": "lhOpqMVvHN8"
     }
   ]
 }
